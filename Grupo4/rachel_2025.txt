@@ -1,0 +1,18 @@
+
+=== RESULTADO DO QUIZ ===
+
+Aluno: Rachel Simonetti Galvão de Moura Baú
+Matrícula: 2025
+
+Acertos: 2 de 4 questões
+
+DETALHAMENTO:
+Questão 1: ✔️ Correta
+Questão 2: ❌ Errada (correta: C)
+Questão 3: ❌ Errada (correta: D)
+Questão 4: ✔️ Correta
+
+
+IMPORTANTE:
+- Este resultado NÃO serve como nota oficial do curso.
+- Faça o commit e push deste arquivo para o seu repositório no GitHub.
